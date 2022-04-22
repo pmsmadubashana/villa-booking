@@ -19,4 +19,3 @@ used technologies,
 
 files have been organized according to MVC format.
 
-Thank you for choosing me to get done your project.
